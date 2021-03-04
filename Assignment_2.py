@@ -3,8 +3,6 @@
 
 # This data Structure utlizes a List Comprehension
 
-# In[46]:
-
 
 '''This List Comprehension multplies a number wihtin the range, 
 1 through 20, by itself 3 times. It then returns the result'''
@@ -17,7 +15,6 @@ print(Cube)
 
 # This data structure is a Set Comprehension
 
-# In[58]:
 
 
 """This Set Comprehension is used to return all Zip Codes"""
@@ -40,7 +37,6 @@ all_zip_codes = { address.zip_code for address in Addresses }
 print(all_zip_codes)
 
 
-# In[ ]:
 
 
 
